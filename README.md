@@ -42,7 +42,7 @@ USER_BLOCKING=your_user_blocking_time_in_minutes
 npm start
 ```
 2. Access the API endpoints:
-- **POST /api/login**: Authenticates users and generates a JWT token for 
+- **POST /api/login**: Authenticates users and generates a JWT token for authentication
 - Body:
 ```
 {
