@@ -43,6 +43,11 @@ npm start
 ```
 2. Access the API endpoints:
 - **POST /api/login**: Authenticates users and generates a JWT token for authentication
+pls use 1 of the following 2 users for login:
+username:'user1@example.com', password:'password1'
+or
+username:'user2@example.com', password:'password2'
+
 - Body:
 ```
 {
